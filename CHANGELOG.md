@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.0](https://github.com/dvanoni/notero/compare/v1.2.3...v1.3.0) (2026-05-09)
+
+
+### Features
+
+* Save Notion web URLs instead of desktop app URLs ([#837](https://github.com/dvanoni/notero/issues/837)) ([5563590](https://github.com/dvanoni/notero/commit/556359043a4b61df5802b6650cbdbec6450bf9d4))
+
 ## [1.2.3](https://github.com/dvanoni/notero/compare/v1.2.2...v1.2.3) (2026-04-29)
 
 
