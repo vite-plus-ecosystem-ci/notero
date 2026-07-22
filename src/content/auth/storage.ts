@@ -10,6 +10,7 @@ const notionConnectionSchema = z.object({
   access_token: z.string(),
   bot_id: z.string(),
   duplicated_template_id: z.string().nullable(),
+  refresh_token: z.string().nullable().default(null),
   workspace_icon: z.string().nullable(),
   workspace_id: z.string(),
   workspace_name: z.string().nullable(),
