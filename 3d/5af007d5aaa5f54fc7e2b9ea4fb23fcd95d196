@@ -1,0 +1,29 @@
+src/content/auth/storage.ts
+  s_985484d4da56ef::t_8db7bc1172d950 13
+src/content/sync/html-to-notion/__tests__/fixtures/formatting.html
+  s_7deb785b0d793a::t_7fe316ef8f5bec 24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3d5af007d5aaa5f54fc7e2b9ea4fb23fcd95d196",
+  "prompts": {},
+  "sessions": {
+    "s_7deb785b0d793a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_075d290f7ffe9T0uOzapI0RUOM",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "wan9chi <dk4rest@gmail.com>"
+    },
+    "s_985484d4da56ef": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_075d29124ffedI2uuOuOwdjocN",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "wan9chi <dk4rest@gmail.com>"
+    }
+  }
+}
