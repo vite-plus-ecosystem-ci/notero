@@ -1,0 +1,29 @@
+pnpm-lock.yaml
+  s_020e0925536890::t_0c20e0ef0d2a1d 10-11,14,99-100,103,106,238-239,245-246,258-259,872-873,929-930,935-936,941-942,948-949,955-956,962-963,969-970,975-976,2153-2154,2334-2335,2489,2494,2497,2505,2844,2848-2849,2856,2859,2865,2882,2888,2914,2929,2932,2935,2938,2941,2944,2947,2950,3456,3618,3641,3652,3674,3978,3982-3983,3985,3991-3993,3995,3997-4004,4040,4042,4045,4062,4066
+pnpm-workspace.yaml
+  s_90100cba1c0f66::t_1f105671d4f2d7 5-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b12b7341e46ba64b1eec5c9d525c43ce941fa307",
+  "prompts": {},
+  "sessions": {
+    "s_020e0925536890": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_073404ba0ffeYB4IX1qsUk75Y5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "wan9chi <dk4rest@gmail.com>"
+    },
+    "s_90100cba1c0f66": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_073404a00ffemUCFCTGJEDwoEV",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "wan9chi <dk4rest@gmail.com>"
+    }
+  }
+}
