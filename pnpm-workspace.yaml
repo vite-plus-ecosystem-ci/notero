@@ -6,6 +6,7 @@ catalog:
   vite-plus: 0.0.0-commit.fba044cf40fea5a7bf4a2ee97822f174eab33dfa
   vitest: 4.1.11
 overrides:
+  '@notionhq/client': 4.0.1
   web-ext@^10.1.0>addons-linter: '-'
   vite@*: 'catalog:'
   vitest@*: 'catalog:'

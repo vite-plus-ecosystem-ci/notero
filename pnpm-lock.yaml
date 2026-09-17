@@ -17,6 +17,7 @@ catalogs:
       version: 4.1.11
 
 overrides:
+  '@notionhq/client': 4.0.1
   web-ext@^10.1.0>addons-linter: '-'
   vite@*: npm:@voidzero-dev/vite-plus-core@0.0.0-commit.fba044cf40fea5a7bf4a2ee97822f174eab33dfa
   vitest@*: 4.1.11
@@ -26,8 +27,8 @@ importers:
   .:
     dependencies:
       '@notionhq/client':
-        specifier: ^4.0.1
-        version: 4.0.2
+        specifier: 4.0.1
+        version: 4.0.1
       eventemitter3:
         specifier: ^5.0.4
         version: 5.0.4
@@ -458,8 +459,8 @@ packages:
   '@jridgewell/sourcemap-codec@1.6.0':
     resolution: {integrity: sha512-T7jf+5zgsZHwNJ4lvQ7/aezbyk0nNX+zJVWpmHA7VYsEx7a7qr5Rg5IbtJFqkgze5Y2sruq1RUY8Q837Od7iFw==, tarball: https://registry.npmjs.org/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.6.0.tgz}
 
-  '@notionhq/client@4.0.2':
-    resolution: {integrity: sha512-4pk3dm4umhjsRI0umCnJ8lCZh0TMiaMdkY0rz6FV4OqVuTsmYFV3pk+YTR5S8792ZY2Rm4lJHlLj05HQVKDuIg==, tarball: https://registry.npmjs.org/@notionhq/client/-/client-4.0.2.tgz}
+  '@notionhq/client@4.0.1':
+    resolution: {integrity: sha512-SdILqiiThECLR2KDUOvl4JqRaJWBwDYaEw/f0qu+G6rKN/QUCkaJ84vN5MgBw1yKsMAsKxBlDazs3Jw6vv2ikA==, tarball: https://registry.npmjs.org/@notionhq/client/-/client-4.0.1.tgz}
     engines: {node: '>=18'}
 
   '@oxc-project/runtime@0.150.0':
@@ -2631,7 +2632,7 @@ snapshots:
 
   '@jridgewell/sourcemap-codec@1.6.0': {}
 
-  '@notionhq/client@4.0.2': {}
+  '@notionhq/client@4.0.1': {}
 
   '@oxc-project/runtime@0.150.0': {}
 
